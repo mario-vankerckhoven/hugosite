@@ -1,4 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://mario-vankerckhoven.github.io/"
 languageCode = "en-us"
 title = "Gip Site"
 theme= "tinyce"
+canonifyurls= true
